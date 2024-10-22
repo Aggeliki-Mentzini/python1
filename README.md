@@ -3,3 +3,7 @@ Learning from https://www.udemy.com/course/master-data-science-in-python/learn/l
 
 
 ![image](https://github.com/user-attachments/assets/623e4b9f-743b-4515-979f-6a3bad556731)
+
+
+![image](https://github.com/user-attachments/assets/5f126332-594b-4513-b0f1-9e851c4d10da)
+
