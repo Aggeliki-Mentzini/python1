@@ -7,6 +7,15 @@ Learning from https://www.udemy.com/course/master-data-science-in-python/learn/l
 
 ![image](https://github.com/user-attachments/assets/5f126332-594b-4513-b0f1-9e851c4d10da)
 
+
+
+Learning objectives:
+- Understand the different types of machine learning.
+- Understand the key concepts of supervised machine learning.
+- Learn how solving problems with ML is different from traditional approaches.
+
+
+
 Learning objectives:
 - Explain a loss function and how it works.
 - Define and describe how gradient descent finds the optimal model parameters.
