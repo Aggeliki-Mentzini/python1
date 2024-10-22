@@ -35,4 +35,36 @@ See the table below for more examples of regression models:
 ![image](https://github.com/user-attachments/assets/0dbf7535-f40d-4426-8b19-90fa578bb1f6)
 
 
+
+
 Classification models are divided into two groups: binary classification and multiclass classification. Binary classification models output a value from a class that contains only two values, for example, a model that outputs either rain or no rain. Multiclass classification models output a value from a class that contains more than two values, for example, a model that can output either rain, hail, snow, or sleet.
+
+
+
+
+
+Unsupervised learning
+Unsupervised learning models make predictions by being given data that does not contain any correct answers. An unsupervised learning model's goal is to identify meaningful patterns among the data. In other words, the model has no hints on how to categorize each piece of data, but instead it must infer its own rules.
+
+A commonly used unsupervised learning model employs a technique called clustering. The model finds data points that demarcate natural groupings.
+
+
+Clustering differs from classification because the categories aren't defined by you. For example, an unsupervised model might cluster a weather dataset based on temperature, revealing segmentations that define the seasons. You might then attempt to name those clusters based on your understanding of the dataset.
+
+!! A supervised approach is given data that contains the correct answer. The model's job is to find connections in the data that produce the correct answer. An unsupervised approach is given data without the correct answer. Its job is to find groupings in the data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
